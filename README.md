@@ -6,5 +6,6 @@
 
 1. **Optional:** Gestalte die App mit CSS.
 
+Zeit: 1:30 Stunden
 
 ![demo](demo.gif)
